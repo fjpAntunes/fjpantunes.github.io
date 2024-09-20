@@ -1,7 +1,7 @@
-Title: Um Pouco de Apertação, um Pouco de Reflexão
+Title: Projetos
 Category: Meta
 Tags: Site
-Slug: aperta-y-reflete
+Slug: Projetos
 Authors: Felipe
 
-_Escalada, Filosofia e Auto-terapia._
+Página para listar projetos

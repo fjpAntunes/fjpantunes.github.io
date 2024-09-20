@@ -1,5 +1,5 @@
 AUTHOR = "Felipe Antunes"
-SITENAME = "Aperta y Reflete"
+SITENAME = "Felipe's page"
 SITEURL = "http://127.0.0.1:8000"
 
 PATH = "content"
