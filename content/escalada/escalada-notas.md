@@ -10,4 +10,9 @@ Deitado numa rede, em frente a uma via chamada Arenito Filosofal, refletia nessa
 [ Escalada como experiência comunitária ]
 [ Conclusão ]
 
+[ Escalada como experiência com a natureza ]
+[ Escalada como experiência individual ]
+[ Escalada como experiência comunitária ]
+[ Conclusão ]
+
 Do que Falo quando Falo de escalada - El Chalten
